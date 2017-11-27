@@ -54,4 +54,4 @@ sudo yum install --nogpgcheck rstudio-server-rhel-1.1.383-x86_64.rpm
 
 Connect to the instance from your web browser using this address:
 
-[your-public-dns]:8787
+-your-public-dns-:8787
