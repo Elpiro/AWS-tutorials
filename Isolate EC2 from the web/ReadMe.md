@@ -1,7 +1,7 @@
-![alt text] (1.png)
+![image](/1.png)
 **step 1** Create a VPC containing a private network
 
-![alt text] (2.png)
+![alt text](/2.png)
 **step 2** Create the first EC2, that will be used as a gateway by the other EC2, which will be connected only to the private network. 
 Choose to activate the automatic P address allocation, so that EC2 will be connected both on the private AND the public network.
 
