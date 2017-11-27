@@ -1,4 +1,4 @@
-![image](AWS-tutorials/Isolate EC2 from the web/1.png)
+![image](Isolate EC2 from the web/1.png)
 **step 1** Create a VPC containing a private network
 
 ![alt text](/2.png)
